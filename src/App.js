@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Footer from './Footer';
 import About from './AboutMe';
 import Contact from './Contact';
@@ -13,7 +13,7 @@ function App() {
     <Router>
       <div className="App">
         <Navbar />
-        <div className="content">
+        {/* <div className="content"> */}
           <Routes>
             <Route
               path="/about"
@@ -33,7 +33,7 @@ function App() {
             />
         </Routes>
         <Footer />
-      </div>
+      {/* </div> */}
     </div>
   </Router>
   );
