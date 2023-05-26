@@ -6,6 +6,7 @@ import About from './AboutMe';
 import Contact from './Contact';
 import Portfolio from './Portfolio';
 import Resume from './Resume';
+import Navbar from './Nav';
 
 function App() {
   return (
