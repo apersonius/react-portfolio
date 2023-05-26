@@ -1,9 +1,7 @@
 import React from 'react';
 import './App.css';
 import { BrowseRouter as Router, Routes, Route } from 'react-router-dom';
-import Header from './Header';
 import Footer from './Footer';
-import Navigation from './Nav';
 import About from './AboutMe';
 import Contact from './Contact';
 import Home from './Home';
@@ -17,10 +15,6 @@ function App() {
         <Navbar />
         <div className="content">
           <Routes>
-            <Route
-              path="/"
-              element={<Home />}
-            />
             <Route
               path="/about"
               element={<About />}
