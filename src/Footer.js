@@ -1,3 +1,5 @@
+import { Icon } from './Icon';
+
 const Footer = () => {
 
     return (
