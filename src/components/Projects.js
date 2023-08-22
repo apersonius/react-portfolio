@@ -1,1 +1,1 @@
-// projects
+export default function Projects() {}
