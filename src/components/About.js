@@ -1,1 +1,1 @@
-// about
+export default function About() {}
