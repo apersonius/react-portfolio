@@ -10,7 +10,7 @@ export default function About() {
                         <br className="hidden lg:inline-block" />I'm enjoying building my skills and building apps
                     </h1>
                     <p className="mb-8 leading-relaxed">
-                        about me here
+                        I'm a dynamic technologist with a background that uniquely blends full stack web development, Division I soccer experience, and six years in healthcare, specializing in ophthalmology. My recent completion of the University of Minnesota's Full Stack Web Development Bootcamp has equipped me with a comprehensive skill set spanning both front-end and back-end technologies. This experience, coupled with my background in soccer, has cultivated a collaborative approach to problem-solving and an unwavering commitment to excellence. My tenure in healthcare has instilled in me a deep appreciation for detail, precision, and effective communication. These skills, coupled with my technical and teamwork abilities, position me as a valuable asset in DevOps and Full Stack Engineering roles. I'm eager to contribute my unique blend of experiences to innovative projects and collaborative teams, delivering solutions that harmonize technology and human-centric care.
                     </p>
                     <div className="flex justify-center">
                         <a
@@ -29,8 +29,7 @@ export default function About() {
                     <img
                     className="object-cover object-center rounded"
                     alt="hero"
-                    src="./coding.svg"
-                    // replace placeholder image
+                    src="/IMG_0190.jpeg"
                 />
                 </div>
             </div>
