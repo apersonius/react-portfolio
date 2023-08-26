@@ -12,7 +12,7 @@ export default function Projects() {
                         Apps I have built
                     </h1>
                     <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                        description here
+                        See below for an incomplete list of project I have created! Of note, some are no longer deployed to Heroku due to cost but all work locally and are linked to the github repo
                     </p>
                 </div>
                 <div className="flex flex-wrap -m-4">

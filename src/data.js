@@ -1,36 +1,36 @@
 export const projects = [
   // add mine lol
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Book Search App",
+    subtitle: "MERN Book Search",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "I took a fully functioning Google Books API search engine built with a RESTful API, and refactored it to be a GraphQL API built with Apollo Server. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API",
+    image: "./booksearch.gif",
+    link: "https://github.com/apersonius/bookSearch",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "PWA Text Editor",
+    subtitle: "PWA Application",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "I started with an existing application and implement methods for getting and storing data to an IndexedDB database. I used a package called idb, which is a lightweight wrapper around the IndexedDB API",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/apersonius/textEditor",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "NoSQL Social Media App",
+    subtitle: "NoSQL, MongoDB, Mongoose",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "I built an API for a social network web application where users can share their thoughts, react to friends thoughts, and create a friend list. I used Express.js for routing, a MongoDB database, and the Mongoose ODM",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/apersonius/socialMediaApp",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Mixer",
+    subtitle: "Bootcamp Final Project",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "I worked with my incredibly talented classmates to create this social media app which tied in a paint program to create your own art, and see prompts to get inspiration if you are stuck. Please visit the GitHub link for their profiles and check them out!",
     image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/apersonius/mixer",
   },
 ];
 
