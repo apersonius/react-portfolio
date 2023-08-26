@@ -13,7 +13,7 @@ export const projects = [
     subtitle: "PWA Application",
     description:
       "I started with an existing application and implement methods for getting and storing data to an IndexedDB database. I used a package called idb, which is a lightweight wrapper around the IndexedDB API",
-    image: "./project-2.gif",
+    image: "./textEditor.gif",
     link: "https://github.com/apersonius/textEditor",
   },
   {
@@ -21,7 +21,7 @@ export const projects = [
     subtitle: "NoSQL, MongoDB, Mongoose",
     description:
       "I built an API for a social network web application where users can share their thoughts, react to friends thoughts, and create a friend list. I used Express.js for routing, a MongoDB database, and the Mongoose ODM",
-    image: "./project-3.gif",
+    image: "./socialMedia.gif",
     link: "https://github.com/apersonius/socialMediaApp",
   },
   {
@@ -29,7 +29,7 @@ export const projects = [
     subtitle: "Bootcamp Final Project",
     description:
       "I worked with my incredibly talented classmates to create this social media app which tied in a paint program to create your own art, and see prompts to get inspiration if you are stuck. Please visit the GitHub link for their profiles and check them out!",
-    image: "./project-4.gif",
+    image: "./mixer.gif",
     link: "https://github.com/apersonius/mixer",
   },
 ];
