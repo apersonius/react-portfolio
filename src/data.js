@@ -1,5 +1,4 @@
 export const projects = [
-  // add mine lol
   {
     title: "Book Search App",
     subtitle: "MERN Book Search",
@@ -37,9 +36,13 @@ export const projects = [
 
 export const skills = [
   "JavaScript",
+  "HTML",
+  "CSS",
+  "NoSQL",
+  "Node.js",
   "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "GitHub",
+  "Teamwork",
+  "Attention to Detail",
+  "Communication",
 ];

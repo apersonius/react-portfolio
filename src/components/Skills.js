@@ -12,7 +12,7 @@ export default function Skills() {
                         Skills
                     </h1>
                     <p className="text-base leading-relaxed xl:s2/4 lg:s-3/4 mx-auto">
-                        skill paragraph
+                        Below are some skills, I'd love to elaborate and list more when we touch base
                     </p>
                 </div>
                 <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
